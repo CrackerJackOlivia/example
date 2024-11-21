@@ -2,6 +2,7 @@ import { Text, View } from "react-native";
 import { Select, SelectTrigger, SelectInput, SelectIcon, SelectPortal, SelectBackdrop, SelectContent, SelectDragIndicatorWrapper, SelectDragIndicator, SelectItem } from '@/components/ui/select';
 import { ChevronDownIcon } from "@/components/ui/icon";
  
+
 export default function Index() {
   return (
     <View>
